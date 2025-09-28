@@ -32,7 +32,7 @@
 ---
 
 ## 📈 Estatísticas GitHub
-
+|[Dio](https://web.dio.me/users/wm_araujo?tab=achievements)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario\&show_icons=true\&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario\&layout=compact\&theme=dracula)
 
