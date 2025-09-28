@@ -23,7 +23,7 @@
 
 ## 📚 Atualmente aprendendo
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white) .
 
 ![IA Generativa](https://img.shields.io/badge/IA%20Generativa-000000?style=for-the-badge\&logo=openai\&logoColor=white)
 
@@ -34,14 +34,15 @@
 
 ## 📈 Estatísticas GitHub
 
-|[Dio](https://web.dio.me/users/wm_araujo?tab=achievements)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario\&show_icons=true\&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario\&layout=compact\&theme=dracula)
+
 
 ---
 
 ## 🌍 Onde me encontrar
-
+* [Dio](https://web.dio.me/users/wm_araujo?tab=achievements)
 * [LinkedIn](https://www.linkedin.com/in/wallas-martins-a56382164/)
 * [GitHub](https://github.com/Nrmahic)
 * ✉️ Email: **[wm_araujo@hotmail.com](mailto:wm_araujo@hotmail.com)**
