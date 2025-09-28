@@ -24,6 +24,7 @@
 ## 📚 Atualmente aprendendo
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
 ![IA Generativa](https://img.shields.io/badge/IA%20Generativa-000000?style=for-the-badge\&logo=openai\&logoColor=white)
 
 * Desenvolvimento de aplicações web dinâmicas
@@ -32,6 +33,7 @@
 ---
 
 ## 📈 Estatísticas GitHub
+
 |[Dio](https://web.dio.me/users/wm_araujo?tab=achievements)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario\&show_icons=true\&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario\&layout=compact\&theme=dracula)
