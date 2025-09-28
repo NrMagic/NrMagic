@@ -47,7 +47,7 @@
 [<img src="https://assets.dio.me/ruGA6FVc7RCIzD_2CiaqcZVDbFtaojoZnaDHU8LxTiA/f:webp/q:80/w:48/L2Fzc2V0cy9kaW9tZS9sb2dvLW1pbmltaXplZC5wbmc" width="30" alt="DIO Logo" />](https://web.dio.me/users/wm_araujo?tab=achievements)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn Logo" />](https://www.linkedin.com/in/wallas-martins-a56382164/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub Logo" />](https://github.com/NrMagic)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="30" alt="Outlook Logo" />](emailto:wm_araujo@hotmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="30" alt="Outlook Logo" />](mailto:wm_araujo@hotmail.com)
 
 
 
