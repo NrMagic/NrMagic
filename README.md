@@ -55,13 +55,5 @@
 
 ---
 
-## 🐍 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github.com/NrMagic/NrMagic/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
----
-
 ✨ _“A tecnologia move o mundo — e eu quero fazer parte dessa evolução.”_  
 ⭐ Se curtiu meu perfil, não esqueça de conferir meus **projetos** e deixar uma ⭐ de apoio!
