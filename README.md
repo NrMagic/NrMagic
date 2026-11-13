@@ -2,15 +2,15 @@
 
 ### Software Developer | Backend & Full Stack Development
 
-Desenvolvedor em formação, apaixonado por tecnologia e pela construção de soluções que conectam criatividade, lógica e inovação.
+Desenvolvedor formado em Desenvolvimento de Sistemas, apaixonado por tecnologia e pela construção de soluções que conectam criatividade, lógica e inovação.
 
-Atualmente, direciono meus estudos para desenvolvimento de software, arquitetura de sistemas, aplicações web e inteligência artificial.
+Direciono meus conhecimentos para desenvolvimento de software, arquitetura de sistemas, aplicações web e inteligência artificial, buscando constantemente evoluir e criar soluções tecnológicas.
 
 ---
 
 ## About Me
 
-- 🎓 Estudante de Desenvolvimento de Sistemas.
+- 🎓 Formado em Desenvolvimento de Sistemas.
 - 💻 Interesse em desenvolvimento Backend e Full Stack.
 - ⚙️ Foco em Java, desenvolvimento de APIs e banco de dados.
 - 🧠 Explorando inteligência artificial e novas tecnologias.
